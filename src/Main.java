@@ -6,6 +6,11 @@ public class Main {
         System.out.println("Thrid Commit");
         System.out.println("4 Commit");
 
+
         System.out.println("master");
+
+        System.out.println("branch2");
+
+        System.out.println("master&branch2");
     }
 }
