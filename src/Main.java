@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Second commit");
         System.out.println("Thrid Commit");
         System.out.println("4 Commit");
+
+        System.out.println("master");
     }
 }
